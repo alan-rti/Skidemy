@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    padding: 0;
+    margin: 0;
+    height: 10vh;
+    background-color: red;
+}
+
+nav div {
+    height: 10vh;
+    width: 10vw;
+    background-color: blue;
+    display: inline;
+}
+
+#navLogo {
+    width: 20vw;
+    margin-right: 50vw;
+}

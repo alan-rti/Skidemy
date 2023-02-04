@@ -1,0 +1,12 @@
+{
+    "editor.fontLigatures": true,
+    "oneDarkPro.vivid": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "Cascadia Code PL, 'Courier New', monospace",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.cursorSurroundingLines": 0,
+    "editor.cursorWidth": 3,
+}
