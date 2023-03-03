@@ -84,7 +84,7 @@ nav {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-image: url("assets/land-back1.png");
+    background-image: url("../assets/land-back1.png");
     background-position-x: 2.5vw;
     background-position-y: 5vw;
     background-size: 95vw;
@@ -115,7 +115,7 @@ nav {
     padding: 5%;
     border-radius: 30px;
     background-repeat: no-repeat;
-    background-image: linear-gradient(to bottom, rgba(239, 241, 255, 0.5) 10%, rgba(0, 0, 0, 0)30%, rgba(0, 0, 0, 0)70%, rgba(0, 0, 0, 1)100%), url("assets/computer-science.jpeg");
+    background-image: linear-gradient(to bottom, rgba(239, 241, 255, 0.5) 10%, rgba(0, 0, 0, 0)30%, rgba(0, 0, 0, 0)70%, rgba(0, 0, 0, 1)100%), url("../assets/computer-science.jpeg");
     background-size: 100%;
     transition: 0.5s;
 }
